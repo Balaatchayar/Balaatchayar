@@ -77,7 +77,4 @@
 <div align="center">
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=balaatchaya2004&show_icons=true&locale=en&layout=compact" alt="balaatchaya2004" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=balaatchaya2004&show_icons=true&locale=en" alt="balaatchaya2004" /></p>
-
-
 </div>
