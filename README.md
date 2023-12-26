@@ -62,9 +62,9 @@
     alt="LeetCode" height="30" width="50"/>
 </a>
 
-<a href="https://stackoverflow.com/users/23038047/bala-atchaya-r" target="_blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/1200px-Stack_Overflow_icon.svg.png"
-    alt="Stack Overflow" height="30" width="50"/>
+<a href="https://auth.geeksforgeeks.org/user/balaatchayar" target="_blank">
+    <img align="center" src="https://media.geeksforgeeks.org/wp-content/uploads/20200716222246/Path-219.png"
+    alt="GeeksforGeeks" height="30" width="50"/>
 </a>
 
 </p>
