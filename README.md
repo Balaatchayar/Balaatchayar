@@ -50,7 +50,7 @@
 
 <p>
 
-  <h3 align="left">Connect with me:</h3>
+  <h3 align="left">Tech Profile Link:</h3>
 <p align="left">
 <a href="https://www.codechef.com/users/balaatchayar5" target="_blank">
   <img align="center" src="https://cdn.codechef.com/images/cc-logo.svg"
