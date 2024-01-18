@@ -64,11 +64,6 @@
     alt="LeetCode" height="30" width="50"/>
 </a>
 
-<a href="https://www.codingninjas.com/studio/profile/balaatchayar" target="_blank">
-  <img align="center" src="https://files.codingninjas.com/new-cn-logos-32028.svg"
-    alt="Coding Ninjas" height="30" width="50"/>
-</a>
-
 
 </p>
 
