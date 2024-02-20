@@ -52,9 +52,9 @@
 
   <h3 align="left">Tech Profile Link:</h3>
 <p align="left">
-<a href="https://www.codechef.com/users/balaatchayar5" target="_blank">
-  <img align="center" src="https://cdn.codechef.com/images/cc-logo.svg"
-    alt="CodeChef" height="30" width="50"/>
+<a href="https://auth.geeksforgeeks.org/user/balaatchayar" target="_blank">
+    <img align="center" src="https://media.geeksforgeeks.org/wp-content/uploads/20200716222246/Path-219.png"
+    alt="GeeksforGeeks" height="30" width="50"/>
 </a>
 
 
