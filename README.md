@@ -12,11 +12,8 @@
 
 
 - 🌱 I’m currently learning `MERN Stack`
-
-- 👯 I’m looking to collaborate for `Dev Projects`
   
-- 📫 How to reach me **atchayaramesh574@gmail.com**
-
+- 📫 You can reach me at atchayaramesh574@gmail.com.
 
 
 ## Languages and Tools I use:
