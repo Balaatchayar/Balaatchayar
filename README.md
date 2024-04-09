@@ -64,6 +64,6 @@
 
 
 <div align="center">
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=balaatchaya2004&show_icons=true&locale=en&layout=compact" alt="Balaatchayar" /></p>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Balaatchayar&show_icons=true&locale=en&layout=compact" alt="Balaatchayar" /></p>
 
 </div>
