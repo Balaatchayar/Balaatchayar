@@ -15,16 +15,7 @@
   
 - 📫 You can reach me at atchayaramesh574@gmail.com.
 
-<h3 align="left">Coding profiles</h3>
-</a>
-<a href="https://www.geeksforgeeks.org/user/balaatchayar/" target="_blank">
-    <img align="center" src="https://media.geeksforgeeks.org/wp-content/uploads/20200716222246/Path-219.png"
-    alt="GeeksforGeeks" height="30" width="50"/>
-</a>
-<a href="https://leetcode.com/u/Balaatchaya_R/" target="_blank">
-  <img align="center" src="https://assets.leetcode.com/users/leetcode/avatar_1568224780.png"
-    alt="LeetCode" height="30" width="50"/>
-</a>
+
 
 
 
