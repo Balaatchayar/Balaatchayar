@@ -51,6 +51,12 @@ Hi, I'm Bala Atchaya R
   </a>
 </p>
 
+### :email: Let's connect:
+
+<a href="https://www.linkedin.com/in/balaatchayar/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="20" width="30" /></a>
+
+<br/>
+
 
 ## 📊 Github Stats
 
