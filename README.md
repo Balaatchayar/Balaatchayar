@@ -80,15 +80,4 @@ Hi, I'm Bala Atchaya R
 
 
 
-## 🙋‍♀️ Coding Profile
-
-<p>
-  <a href="https://leetcode.com/Balaatchayar/" target="_blank">
-    <img align="center" src="https://assets.leetcode.com/users/leetcode/avatar_1568224780.png" alt="LeetCode" height="30" width="50"/>
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/Balaatchayar" target="_blank">
-    <img align="center" src="https://media.geeksforgeeks.org/wp-content/uploads/20200716222246/Path-219.png" alt="GeeksforGeeks" height="30" width="50"/>
-  </a>
-</p>
-
 
