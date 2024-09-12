@@ -89,9 +89,10 @@ Hi, I'm Bala Atchaya R
     <img align="center" src="https://media.geeksforgeeks.org/wp-content/uploads/20200716222246/Path-219.png"
     alt="GeeksforGeeks" height="30" width="50"/>
 </a>
-
-
 </p>
+
+
+<img src="https://leetcard.jacoblin.cool/Balaatchaya_R?theme=dark&bg=151515&font=Comic%20Neue&ext=contest" alt="LeetCode Stats" />
 
 
 
