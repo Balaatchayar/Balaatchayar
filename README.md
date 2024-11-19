@@ -16,10 +16,10 @@ Hi, I'm Bala Atchaya R
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
 
-
-- 🌱 I’m currently learning `MERN Stack`
   
-- 📫 You can reach me at atchayaramesh574@gmail.com.
+- 🎯 I’m currently working on full-stack projects.
+
+- ✉️ You can reach me at atchayaramesh574@gmail.com.
 
 
 
@@ -53,7 +53,7 @@ Hi, I'm Bala Atchaya R
 
 ### Let's connect:
 
-<a href="https://www.linkedin.com/in/balaatchayar/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="20" width="30" /></a>
+<a href="https://www.linkedin.com/in/balaatchayar/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" /></a>
 
 ## 📊 Github Stats
 
@@ -93,6 +93,3 @@ Hi, I'm Bala Atchaya R
 
 
 <img src="https://leetcard.jacoblin.cool/Balaatchaya_R?theme=dark&bg=151515&font=Comic%20Neue&ext=contest" alt="LeetCode Stats" />
-
-
-
