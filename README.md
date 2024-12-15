@@ -8,7 +8,7 @@ Hi, I'm Bala Atchaya R
 
 
 <p align="center" style="font-size: 24px;">
-  <strong>MERN Stack Developer</strong>
+  <strong>Full Stack Developer</strong>
 </p>
 <hr/>
 
