@@ -7,7 +7,6 @@
 ---
 
 ### 👩‍💻 About Me 
-- Exploring the fields of Data Science and Data Engineering, and working on projects to strengthen my technical expertise.
 - Enthusiastic about problem-solving, continuous learning, and building efficient, data-driven solutions.
 - Reach me at **atchayaramesh574@gmail.com**  
 
